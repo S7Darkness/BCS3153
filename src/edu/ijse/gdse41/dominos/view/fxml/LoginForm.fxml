@@ -26,6 +26,11 @@
             <Font size="18.0" />
          </font>
       </JFXPasswordField>
+       <JFXPasswordField fx:id="XXX" focusColor="WHITE" labelFloat="true" layoutX="563.0" layoutY="399.0" onAction="#btnLoginAction" prefHeight="38.0" prefWidth="327.0" promptText="Password" style="-fx-text-inner-color: #ffffff; -fx-prompt-text-fill: #ffffff;" unFocusColor="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </JFXPasswordField>
       <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="652.0" layoutY="102.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../../image/Dominos-Pizza-Logo.png" />
